@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @duanduansweetie
-- 🌱 I’m currently learning basic programming language
+- 🌱 I’m currently learning basic programming skills
 - 📫 How to reach me :e-mail Zhangty05@buaa.edu.cn // DuanduanSweetie@outlook.com
 
 <!---
